@@ -250,7 +250,7 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = "kp355576@gmail.com"
-EMAIL_HOST_PASSWORD = "ysim nbos izbk dqua "
+EMAIL_HOST_PASSWORD = " "
 
 
 
