@@ -83,8 +83,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'backend.wsgi.application'
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-4r+gxcfijd3ar$6&7_sfd33h+4q477^lv^0d$6gzxjm2n1r#d6'
+# SECURITY WARNING: keep the secret key used in production sec
 
 # Database
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
