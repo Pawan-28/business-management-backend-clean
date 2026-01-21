@@ -93,7 +93,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'business_management_db',
         'USER': 'root',  # Change to your MySQL username
-        'PASSWORD': 'pandatechlabs',  # Your MySQL password
+        'PASSWORD': '',  # Your MySQL password
         'HOST': 'localhost',
         'PORT': '3306',
         'OPTIONS': {
@@ -248,7 +248,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = "kp355576@gmail.com"
+EMAIL_HOST_USER = ""
 EMAIL_HOST_PASSWORD = " "
 
 
