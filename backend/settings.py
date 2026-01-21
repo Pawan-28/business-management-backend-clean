@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/6.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# SECRET_KEY = 'django-insecure-1_m6u5=@-r_jl&_&z3#5jmfql0*cm*#_rpw3=yw+0u)nmefcle'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -261,7 +261,7 @@ TWILIO_AUTH_TOKEN = os.getenv("TWILIO_AUTH_TOKEN")
 
 
 # Fast2SMS (Testing)
-FAST2SMS_API_KEY = "QIrBuvYDSG1nqx7mgXcVZUMTksH8loARdhW6tz4JOC5f0PaFK2O5WosVpYJkcAnK3C8uQPrbhEmf6N1B"
+FAST2SMS_API_KEY = ""
 
 
 # settings.py
